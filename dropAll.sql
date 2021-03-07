@@ -1,0 +1,16 @@
+DROP TABLE person_corporation;
+DROP TABLE Employe;
+DROP TABLE partner;
+DROP TABLE associate;
+DROP TABLE supervisor;
+DROP TABLE address;
+DROP TABLE email;
+DROP TABLE phone;
+DROP TABLE properties;
+DROP TABLE owner;
+DROP TABLE owns;
+DROP TABLE clients;
+DROP TABLE preference;
+DROP TABLE viewing;
+DROP TABLE viewing_date;
+DROP TABLE lease;
